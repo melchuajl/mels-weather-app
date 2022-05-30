@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: aliceblue;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h2 {
+    font-size: 2rem;
+    color: navy
+}
+
+.subheader {
+    margin: 2px;
+    padding: 10px;
+    background-color: rgb(194, 231, 231);
+    font-size: 0.75rem;
+    font-style: italic;
+    color:gray;
+}
+
+table {
+    width: 65vh;
+}
+
+table > thead {
+    background-color: navy;
+    color: white;
+}
+
