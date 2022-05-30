@@ -47,6 +47,9 @@ const WeatherForecast = () => {
                 return <li>{f.area}: {f.forecast}</li>
             })}
         </ul> */}
+        <div>
+            BaseURL: {config.baseURL}
+        </div>
     </>);
 }
 
