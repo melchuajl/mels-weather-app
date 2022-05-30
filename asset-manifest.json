@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mels-weather-app/static/css/main.0db4ee21.css",
+    "main.css": "/mels-weather-app/static/css/main.8cfcbe0b.css",
     "main.js": "/mels-weather-app/static/js/main.e01dfd24.js",
     "static/js/787.a1de596f.chunk.js": "/mels-weather-app/static/js/787.a1de596f.chunk.js",
     "index.html": "/mels-weather-app/index.html",
-    "main.0db4ee21.css.map": "/mels-weather-app/static/css/main.0db4ee21.css.map",
+    "main.8cfcbe0b.css.map": "/mels-weather-app/static/css/main.8cfcbe0b.css.map",
     "main.e01dfd24.js.map": "/mels-weather-app/static/js/main.e01dfd24.js.map",
     "787.a1de596f.chunk.js.map": "/mels-weather-app/static/js/787.a1de596f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0db4ee21.css",
+    "static/css/main.8cfcbe0b.css",
     "static/js/main.e01dfd24.js"
   ]
 }
