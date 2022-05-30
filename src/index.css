@@ -37,3 +37,8 @@ table > thead {
     color: white;
 }
 
+.baseurl {
+    font-size: 0.3rem;
+    font-style: italic;
+    color: darkgrey;
+}
