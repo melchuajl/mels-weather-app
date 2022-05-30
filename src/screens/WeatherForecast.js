@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import API from '../API';
 import dateFormat from 'dateformat';
+import config from '../config/index';
 
 const WeatherForecast = () => {
 
