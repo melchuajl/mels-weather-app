@@ -22,7 +22,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://melchuajl.github.io/mels_weather_app",
+  "homepage": "https://melchuajl.github.io/mels-weather-app",
   "eslintConfig": {
     "extends": [
       "react-app",
